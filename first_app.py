@@ -11,7 +11,6 @@ import numpy as np
 
 def text():
     #Mark Down
-    st.markdown('Azi has a big butt!')
     st.markdown('Markdown')
     st.markdown('Streamlit is **_really_ cool**.')
     st.markdown("This text is :red[colored red], and this is **:blue[colored]** and bold.")
